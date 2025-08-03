@@ -1,0 +1,12 @@
+# ninja log v5
+169	1613	7736883622046008	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	dc4c092e0b7112f9
+1617	2230	7736883627809879	C:/Users/Paari Jindal/Car Racing 2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/22122e6a/obj/arm64-v8a/libswappywrapper.so	d7619d268674c0c8
+52	5305	7736883658953213	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	f32c95a639b75ec0
+36	5339	7736883659307206	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	3374d259f27ca89d
+2	5391	7736883659809002	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	71e91d480221afd0
+113	5405	7736883659980022	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	365e8e8b0d6f28d9
+19	5515	7736883661109325	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	dd73c9b2d1eb2026
+93	5878	7736883664734612	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	197eec99020a7ef5
+71	5990	7736883665872875	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	fa396be10a0c4c51
+143	6196	7736883667772494	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	87ae08b806d04c41
+6196	6437	7736883670358407	C:/Users/Paari Jindal/Car Racing 2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/22122e6a/obj/arm64-v8a/libgame.so	b2682b52aab7b22b
